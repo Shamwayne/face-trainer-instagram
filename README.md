@@ -23,3 +23,5 @@ Tested with https://www.instagram.com/mirandakerr/ @Mirandakerr, you results may
 - numpy
 - opencv 3
 - sklearn
+
+please raise an issue if you need any help with it, or a pull request if you're up to the task of making this more generic and awesome.
