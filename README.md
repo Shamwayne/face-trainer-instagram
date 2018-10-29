@@ -6,6 +6,10 @@ This application comprises of 3 parts
 Crawls the https address of an instagram account and downloads all the faces
 
 ### Face Clustering
-
+filters all the faces that aren't related to the main person's instagram account
 
 ### Face Dataset
+Trains the clustered faces
+
+
+Tested with https://www.instagram.com/mirandakerr/ @Mirandakerr, you results may vary since new pictures might be uploaded. if you need to use a different account, just change the instagram account url and try it again. Please note that accounts with a larger ratio of selfies would be better
